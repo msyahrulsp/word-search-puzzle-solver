@@ -2,6 +2,7 @@
 Sebuah Word Search Puzzle Solver sederhana yang dibuat menggunakan bahasa C++ dan pendekatan Brute Force
 
 ### Requirement
+- Windows OS
 - C++ + Compiler
 - [IDE](https://code.visualstudio.com/)
 
